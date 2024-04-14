@@ -5,3 +5,4 @@
 - To see more of my projects, check out [Website Incomplete].
 
 
+!Jason Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=j267chen&show_icons=true&theme=dark)
